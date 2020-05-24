@@ -1,1 +1,1 @@
-# ai-ml-community
+# ai/ml models
